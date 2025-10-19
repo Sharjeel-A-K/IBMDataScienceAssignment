@@ -1,2 +1,2 @@
 # IBMDataScienceAssignment
-Data Science Course Assignment
+This repository is a part of my Data Science Course Assignment.
